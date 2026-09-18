@@ -1,0 +1,8 @@
+.cursor
+.claude
+
+.env
+venv
+.venv
+
+__pycache__/
