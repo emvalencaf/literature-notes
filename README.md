@@ -176,6 +176,12 @@ source's language); the note's own prose follows whatever language the
 researcher is writing to the agent in — Portuguese in this example's real
 use case, English above only because this README is in English.
 
+A full, self-consistent bundle carrying this same scenario further — a
+second source, a `/literature-notes-rescope` interview, and a resulting
+decision record — lives at
+[`examples/dworkin-stf-judicial-activism`](examples/dworkin-stf-judicial-activism)
+for you to read end to end or run the scripts against directly.
+
 ## Design notes
 
 - **It's a wiki, not a pile of files.** Link liberally — especially when

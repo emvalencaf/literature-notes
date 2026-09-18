@@ -183,6 +183,12 @@ ser essa a situação real que ele descreve. O termo `Judicial Activism` no
 glossário fica no idioma original em que foi cunhado (veja "Notas de
 design" abaixo) — mesmo com a nota em português ao redor dele.
 
+Um bundle completo e autoconsistente que leva esse mesmo cenário adiante —
+uma segunda fonte, uma entrevista de `/literature-notes-rescope` e o
+decision record resultante — está em
+[`examples/dworkin-stf-judicial-activism`](examples/dworkin-stf-judicial-activism)
+para você ler do início ao fim ou rodar os scripts diretamente contra ele.
+
 ## Notas de design
 
 - **É uma wiki, não uma pilha de arquivos.** Linke liberalmente —
