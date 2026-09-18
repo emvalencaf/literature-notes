@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ask How"
+  short_description: "Find the right literature-notes skill for what you're doing"
+policy:
+  allow_implicit_invocation: false
