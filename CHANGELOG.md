@@ -6,8 +6,16 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-09-17
+
 ### Added
 
+- `examples/dworkin-stf-judicial-activism/`, a full worked `.literature-notes/`
+  bundle (two sources, three notes across all three `note_kind`s, `RESEARCH.md`/
+  `Glossary.md`, a `/literature-notes-rescope` decision record, and the
+  `CLAUDE.md`/`AGENTS.md` docs `setup-literature-notes` generates) that
+  validates cleanly with the pack's own `validate.py`/`query.py` scripts.
+  Linked from both READMEs' worked-example section.
 - `README.pt-BR.md`, a full Portuguese (Brazil) translation of the README,
   with a language switcher at the top of both files. Commands, flags, file
   names, and YAML keys stay literal; the worked example's generated note
