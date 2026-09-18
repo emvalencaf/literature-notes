@@ -19,13 +19,13 @@ accountable to.
 ## Install
 
 ```bash
-npx skills add edsonmvf/literature-notes
+npx skills add emvalencaf/literature-notes
 ```
 
 This installs every skill in this repository. To install a single skill:
 
 ```bash
-npx skills add edsonmvf/literature-notes/skills/literature-notes
+npx skills add emvalencaf/literature-notes/skills/literature-notes
 ```
 
 **Dependency**: `literature-notes-rescope` invokes the `grilling` skill to

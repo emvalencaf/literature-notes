@@ -19,14 +19,14 @@ as notas ficam sempre prestando contas.
 ## Instalação
 
 ```bash
-npx skills add edsonmvf/literature-notes
+npx skills add emvalencaf/literature-notes
 ```
 
 Isso instala todas as skills deste repositório. Para instalar uma única
 skill:
 
 ```bash
-npx skills add edsonmvf/literature-notes/skills/literature-notes
+npx skills add emvalencaf/literature-notes/skills/literature-notes
 ```
 
 **Dependência**: `literature-notes-rescope` invoca a skill `grilling` para
